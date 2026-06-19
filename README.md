@@ -57,4 +57,6 @@ https://xxxxx.ngrok-free.dev/fake_microsoft_login.php
 - If you need to remove sensitive data from the repo, use history rewrite tools carefully.
 warning:
  creator is not responsible for any cused using this code and tools user is self responsible for it.
-  made for only educational purpose only.
+  made for only educational purpose only
+  For more update about this repo visit: https://github.com/Blackeye-0335/I_can_see_u.git (for latest updates and glitches)
+  
